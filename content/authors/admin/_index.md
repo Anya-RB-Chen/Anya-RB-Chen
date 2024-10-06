@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈儒冰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Rubing
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rubing
+last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,37 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student, Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ru-bing.chen@connect.polyu.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Anya-RB-Chen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rubing-rb-chen/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=lEjqi_MAAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
+  - AI4Science
 
 education:
   - area: PhD Artificial Intelligence
